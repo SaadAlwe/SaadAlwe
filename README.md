@@ -2,7 +2,11 @@
 
 
 # 💫 About Me:
-I am highly motivated and passionate about web development. My development skills are well-founded and I have a keen eye for detail, a fast learning ability, and a collaborative approach. I am constantly seeking out new technologies to create innovative and user-friendly interfaces. I am eager to join a dynamic team and learn from experienced professionals while contributing my skills and enthusiasm.<br>
+Computer Science graduate with expertise in Software Quality
+Assurance and UI/UX design.Skilled in identifying and resolving defects to ensure high-quality
+software deliverables.Quick learner with a collaborative mindset and attention to detail in testing processes.Passionate about Agile methodologies, test automation, and REST API
+testing.Seeking opportunities to contribute to quality-driven teams while
+enhancing testing expertise<br>
 
 
 ## 🌐 Socials:
